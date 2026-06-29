@@ -21,3 +21,10 @@ Analyzed healthcare accounts receivable data and created an interactive dashboar
 - Dashboard Design
 - KPI Reporting
 - Business Analysis
+
+- ## Key Insights
+
+- Identified providers with the highest outstanding balances.
+- Tracked payment trends across insurance companies.
+- Monitored collection performance using KPI dashboards.
+- Improved visibility into Accounts Receivable metrics.
