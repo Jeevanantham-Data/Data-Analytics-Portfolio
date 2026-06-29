@@ -28,3 +28,6 @@ Analyzed healthcare accounts receivable data and created an interactive dashboar
 - Tracked payment trends across insurance companies.
 - Monitored collection performance using KPI dashboards.
 - Improved visibility into Accounts Receivable metrics.
+
+- <img width="1517" height="762" alt="Healthcare Dashboard" src="https://github.com/user-attachments/assets/45b5476b-cb6a-447d-95cb-889a5a473aba" />
+
